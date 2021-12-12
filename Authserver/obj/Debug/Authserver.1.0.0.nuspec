@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Authserver</id>
+    <version>1.0.0</version>
+    <authors>Authserver</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="MySql.Data" version="8.0.18" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="4.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Documents\source\repos\Authserver (General)\Authserver\bin\Debug\net5.0\Authserver.runtimeconfig.json" target="lib\net5.0\Authserver.runtimeconfig.json" />
+    <file src="D:\Documents\source\repos\Authserver (General)\Authserver\bin\Debug\net5.0\Authserver.dll" target="lib\net5.0\Authserver.dll" />
+  </files>
+</package>

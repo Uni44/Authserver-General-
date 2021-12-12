@@ -1,0 +1,14 @@
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\Authserver.exe
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\Authserver.deps.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\Authserver.runtimeconfig.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\Authserver.runtimeconfig.dev.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Release\netcoreapp2.1\win-x64\Authserver.pdb
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Release\netcoreapp2.1\win-x64\Authserver.csprojAssemblyReference.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Release\netcoreapp2.1\win-x64\Authserver.csproj.CoreCompileInputs.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Release\netcoreapp2.1\win-x64\Authserver.AssemblyInfoInputs.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Release\netcoreapp2.1\win-x64\Authserver.AssemblyInfo.cs
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Release\netcoreapp2.1\win-x64\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Release\netcoreapp2.1\win-x64\Authserver.pdb

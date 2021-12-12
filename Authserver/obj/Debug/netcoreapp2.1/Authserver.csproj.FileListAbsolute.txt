@@ -1,0 +1,49 @@
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Debug\netcoreapp2.1\Authserver.deps.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.dev.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Debug\netcoreapp2.1\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\bin\Debug\netcoreapp2.1\Authserver.pdb
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Debug\netcoreapp2.1\Authserver.csprojAssemblyReference.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Debug\netcoreapp2.1\Authserver.csproj.CoreCompileInputs.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfoInputs.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfo.cs
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Debug\netcoreapp2.1\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver\Authserver\obj\Debug\netcoreapp2.1\Authserver.pdb
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\bin\Debug\netcoreapp2.1\Authserver.deps.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.dev.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\bin\Debug\netcoreapp2.1\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\bin\Debug\netcoreapp2.1\Authserver.pdb
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\obj\Debug\netcoreapp2.1\Authserver.csprojAssemblyReference.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfoInputs.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfo.cs
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\obj\Debug\netcoreapp2.1\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\obj\Debug\netcoreapp2.1\Authserver.pdb
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\obj\Debug\netcoreapp2.1\Authserver.Properties.Resources.resources
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (Proyecto B)\Authserver\obj\Debug\netcoreapp2.1\Authserver.csproj.GenerateResource.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.deps.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.dev.json
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.pdb
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.csprojAssemblyReference.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.Properties.Resources.resources
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.csproj.GenerateResource.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfoInputs.cache
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfo.cs
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.dll
+C:\Users\Unigames44.DESKTOP-OOO7K58.000\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.pdb
+D:\Documents\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.deps.json
+D:\Documents\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.json
+D:\Documents\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.runtimeconfig.dev.json
+D:\Documents\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.dll
+D:\Documents\source\repos\Authserver (General)\Authserver\bin\Debug\netcoreapp2.1\Authserver.pdb
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.csprojAssemblyReference.cache
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.Properties.Resources.resources
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.csproj.GenerateResource.cache
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfoInputs.cache
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.AssemblyInfo.cs
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.csproj.CoreCompileInputs.cache
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.dll
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.pdb
+D:\Documents\source\repos\Authserver (General)\Authserver\obj\Debug\netcoreapp2.1\Authserver.genruntimeconfig.cache
